@@ -21,8 +21,10 @@ This photo shows how the microcontroller outputs control the LED voltage. It doe
 
 ## How to use:
 1. Set up STM32 ST-Link
-2. Compile and build the program in Keil uVision5
-3. Connect to the STM32F100 Discovery board with ST-Link
-4. Program board using ST-Link dashboard
+2. Download all files from the repository and place them in a folder named "LEDExample"
+3. Open the project in an IDE (I use Keil uVision5)
+4. Compile and build the program
+5. Connect to the STM32F100 Discovery board with ST-Link
+6. Select "Target" then select "Program" from the dropdown options.
 
 At this point, the board is programmed and ready to use.
