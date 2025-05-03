@@ -2,6 +2,7 @@
 STM32F100 Discovery board controlling 2 arrays of non-addressable RGB LED strips
 
 Author: Nikolas Lendvoy
+
 Date Created: May 2025
 
 ## How it's made:
