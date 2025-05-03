@@ -13,8 +13,10 @@ I used a microcontroller from a past project and a carrier board. The carrier bo
 My LED strips have a common input, meaning control for each colour is done with transistors between the LEDs and ground. If I had the option, I would have used an LED strip with a common ground instead of a common input because I could have varied voltage from the microcontroller ports.
 
 ## Circuit Diagram
-![circuit](https://github.com/user-attachments/assets/886ac5dd-251f-49a0-9ec7-093cde8374ec)
+
 This photo shows how the microcontroller outputs control the LED voltage. It does not show the carrier board buttons attached to the microcontroller.
+
+![circuit](https://github.com/user-attachments/assets/886ac5dd-251f-49a0-9ec7-093cde8374ec)
 
 ## How to use:
 1. Set up STM32 ST-Link
